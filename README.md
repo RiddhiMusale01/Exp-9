@@ -1,6 +1,8 @@
 # EXPERIMENT 9
 # Aim
 To study and implement C++Pointer basics
+# Software Used
+VS Code
 # Theory
 
 Pointers are symbolic representations of addresses.
