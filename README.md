@@ -2,7 +2,7 @@
 # Aim
 To study and implement C++Pointer basics
 # Software Used
-VS Code
+Visual Studio Code
 # Theory
 
 Pointers are symbolic representations of addresses.
